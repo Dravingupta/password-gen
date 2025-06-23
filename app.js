@@ -40,3 +40,4 @@ generateBtn.addEventListener("click", function () {
 
     passwordEl.value = password;
 });
+// thank you for reading
